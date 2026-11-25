@@ -13,6 +13,7 @@
 
 1. Adapter
 2. Bridge
+3. Composite
 
 
 
